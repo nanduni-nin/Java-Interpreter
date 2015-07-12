@@ -1,8 +1,3 @@
-
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 import java.awt.FileDialog;
 import java.io.BufferedReader;
 import java.io.File;
@@ -17,7 +12,7 @@ import javax.swing.UIManager;
 
 /**
  *
- * @author Pubudu nn
+ * @author Nandy
  */
 public class ComposeJava {
 
